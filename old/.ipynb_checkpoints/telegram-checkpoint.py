@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 import talk_db as tk
 
-TOKEN = '7536532972:AAErpPQ46IPTMxA_TGZi5yzyLRPEZGaTlpA'
+TOKEN = ''
 
 TRIGGER_WORDS = {
     "안녕" : "안녕하세요!!😊",
